@@ -1,1 +1,0 @@
-# syllabus-spring2022
