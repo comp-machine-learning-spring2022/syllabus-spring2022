@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Markdown Files &#8212; CSC 294 - Computational Machine Learning</title>
+    <title>Academic Integrity &#8212; CSC 294 - Computational Machine Learning</title>
     
   <link href="_static/css/theme.css" rel="stylesheet">
   <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
@@ -51,6 +51,8 @@
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Assessment" href="grading.html" />
+    <link rel="prev" title="Resources Supporting CSC 294" href="resources.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -94,7 +96,7 @@
   </a>
  </li>
 </ul>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="logistics.html">
    Course Logistics
@@ -110,8 +112,8 @@
    Resources Supporting CSC 294
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="honorcode.html">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
    Academic Integrity
   </a>
  </li>
@@ -166,7 +168,7 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/markdown.md"><button type="button"
+        <a class="dropdown-buttons" href="_sources/honorcode.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
@@ -197,33 +199,18 @@
             <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-myst">
-   What is MyST?
+  <a class="reference internal nav-link" href="#honor-code">
+   Honor Code
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-are-roles-and-directives">
-   What are roles and directives?
+  <a class="reference internal nav-link" href="#honor-code-practicalities">
+   Honor Code Practicalities
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#using-a-directive">
-     Using a directive
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#using-a-role">
-     Using a role
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#adding-a-citation">
-     Adding a citation
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#executing-code-in-your-markdown-files">
-     Executing code in your markdown files
+    <a class="reference internal nav-link" href="#creation-vs-curation">
+     Creation vs. Curation
     </a>
    </li>
   </ul>
@@ -238,7 +225,7 @@
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Markdown Files</h1>
+                <h1>Academic Integrity</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -249,33 +236,18 @@
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-myst">
-   What is MyST?
+  <a class="reference internal nav-link" href="#honor-code">
+   Honor Code
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-are-roles-and-directives">
-   What are roles and directives?
+  <a class="reference internal nav-link" href="#honor-code-practicalities">
+   Honor Code Practicalities
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#using-a-directive">
-     Using a directive
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#using-a-role">
-     Using a role
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#adding-a-citation">
-     Adding a citation
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#executing-code-in-your-markdown-files">
-     Executing code in your markdown files
+    <a class="reference internal nav-link" href="#creation-vs-curation">
+     Creation vs. Curation
     </a>
    </li>
   </ul>
@@ -289,111 +261,34 @@
             
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="markdown-files">
-<h1>Markdown Files<a class="headerlink" href="#markdown-files" title="Permalink to this headline">¶</a></h1>
-<p>Whether you write your book’s content in Jupyter Notebooks (<code class="docutils literal notranslate"><span class="pre">.ipynb</span></code>) or
-in regular markdown files (<code class="docutils literal notranslate"><span class="pre">.md</span></code>), you’ll write in the same flavor of markdown
-called <strong>MyST Markdown</strong>.</p>
-<div class="section" id="what-is-myst">
-<h2>What is MyST?<a class="headerlink" href="#what-is-myst" title="Permalink to this headline">¶</a></h2>
-<p>MyST stands for “Markedly Structured Text”. It
-is a slight variation on a flavor of markdown called “CommonMark” markdown,
-with small syntax extensions to allow you to write <strong>roles</strong> and <strong>directives</strong>
-in the Sphinx ecosystem.</p>
+  <div class="tex2jax_ignore mathjax_ignore section" id="academic-integrity">
+<h1>Academic Integrity<a class="headerlink" href="#academic-integrity" title="Permalink to this headline">¶</a></h1>
+<p>Nothing is held more dear to a researcher than their integrity. To researchers, the most precious commodity is our ideas. While some researchers build tangible items that can be protected by patents, many researchers’ products are ideas and theories, which are less likely to be protected under things like patents. Instead, it is academic integrity that governs our research communities, protecting our ideas from being stolen. The system of academic integrity relies on researchers trusting each other to be honest and to act with integrity.</p>
+<div class="section" id="honor-code">
+<h2>Honor Code<a class="headerlink" href="#honor-code" title="Permalink to this headline">¶</a></h2>
+<p>Being at a school with an Honor Code, like Smith, is a special privilege. The Honor Code goes beyond inviting students to act with integrity, instead it welcomes students as equal participants of the learning community, imbuing students with the same level of trust that we extend to our collaborators and colleagues. The Smith College Honor Code, established in 1944, and as stated in the Student Handbook, says:</p>
+<blockquote>
+<div><p>Smith College expects all students to be honest and committed to the principles of academic and intellectual integrity in their preparation and submission of course work and examinations. Students and faculty at Smith are part of an academic community defined by its commitment to scholarship, which depends on scrupulous and attentive acknowledgement of all sources of information, and honest and respectful use of college resources.</p>
+</div></blockquote>
+<p>This trust bestowed to students in the Honor Code is the same trust that exists in and among researchers within a research community, the same trust that exists between me and my collaborators. Simply put, at Smith, under the Honor Code, I trust that you will each act with integrity, citing sources when you celebrate others’ ideas and noting who you work with when collaborating.</p>
+<p>This trust manifests in how assignments are created, in how work is completed, and in how we resolve instances where the trust has been broken. At an Honor Code school, assignments are created knowing that while there are resources online that can offer complete solutions, you are trusted to not seek out such complete resources and that if you do stumble on a solution guide, you will not use it. Under an Honor Code, students are expected to keep careful notes about the resources that they consult and the people that they collaborate with. We get to assume that the work handed in by a student is the creation of that student. Lastly, when there are violations of the Honor Code, the resolution is determined by a committee established by the community and trusted to seek restoration of the whole community’s trust through education and action.</p>
+<p>I regard the Honor Code with deep and profound respect. Being an educator at an Honor Code school means we begin from a place of trust without any underlying suspicion of our students. Simply put, we - instructors and students - work from the assumption that all are acting in good faith and with the utmost integrity. This is an assumption that cannot be made at a school without an Honor code, and it is why it is a privilege to be both an instructor and a student at Smith under the Honor Code.</p>
 </div>
-<div class="section" id="what-are-roles-and-directives">
-<h2>What are roles and directives?<a class="headerlink" href="#what-are-roles-and-directives" title="Permalink to this headline">¶</a></h2>
-<p>Roles and directives are two of the most powerful tools in Jupyter Book. They
-are kind of like functions, but written in a markup language. They both
-serve a similar purpose, but <strong>roles are written in one line</strong>, whereas
-<strong>directives span many lines</strong>. They both accept different kinds of inputs,
-and what they do with those inputs depends on the specific role or directive
-that is being called.</p>
-<div class="section" id="using-a-directive">
-<h3>Using a directive<a class="headerlink" href="#using-a-directive" title="Permalink to this headline">¶</a></h3>
-<p>At its simplest, you can insert a directive into your book’s content like so:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{mydirectivename}
-My directive content
-```
-</pre></div>
-</div>
-<p>This will only work if a directive with name <code class="docutils literal notranslate"><span class="pre">mydirectivename</span></code> already exists
-(which it doesn’t). There are many pre-defined directives associated with
-Jupyter Book. For example, to insert a note box into your content, you can
-use the following directive:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{note}
-Here is a note
-```
-</pre></div>
-</div>
-<p>This results in:</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>Here is a note</p>
-</div>
-<p>In your built book.</p>
-<p>For more information on writing directives, see the
-<a class="reference external" href="https://myst-parser.readthedocs.io/">MyST documentation</a>.</p>
-</div>
-<div class="section" id="using-a-role">
-<h3>Using a role<a class="headerlink" href="#using-a-role" title="Permalink to this headline">¶</a></h3>
-<p>Roles are very similar to directives, but they are less-complex and written
-entirely on one line. You can insert a role into your book’s content with
-this pattern:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Some content {rolename}`and here is my role&#39;s content!`
-</pre></div>
-</div>
-<p>Again, roles will only work if <code class="docutils literal notranslate"><span class="pre">rolename</span></code> is a valid role’s name. For example,
-the <code class="docutils literal notranslate"><span class="pre">doc</span></code> role can be used to refer to another page in your book. You can
-refer directly to another page by its relative path. For example, the
-role syntax <code class="docutils literal notranslate"><span class="pre">{doc}`intro`</span></code> will result in: <a class="reference internal" href="intro.html"><span class="doc">Welcome to CSC 294</span></a>.</p>
-<p>For more information on writing roles, see the
-<a class="reference external" href="https://myst-parser.readthedocs.io/">MyST documentation</a>.</p>
-</div>
-<div class="section" id="adding-a-citation">
-<h3>Adding a citation<a class="headerlink" href="#adding-a-citation" title="Permalink to this headline">¶</a></h3>
-<p>You can also cite references that are stored in a <code class="docutils literal notranslate"><span class="pre">bibtex</span></code> file. For example,
-the following syntax: <code class="docutils literal notranslate"><span class="pre">{cite}`holdgraf_evidence_2014`</span></code> will render like
-this: <span id="id1">[<a class="reference internal" href="#id3">HdHPK14</a>]</span>.</p>
-<p>Moreover, you can insert a bibliography into your page with this syntax:
-The <code class="docutils literal notranslate"><span class="pre">{bibliography}</span></code> directive must be used for all the <code class="docutils literal notranslate"><span class="pre">{cite}</span></code> roles to
-render properly.
-For example, if the references for your book are stored in <code class="docutils literal notranslate"><span class="pre">references.bib</span></code>,
-then the bibliography is inserted with:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{bibliography}
-```
-</pre></div>
-</div>
-<p>Resulting in a rendered bibliography that looks like:</p>
-<p id="id2"><dl class="citation">
-<dt class="label" id="id3"><span class="brackets"><a class="fn-backref" href="#id1">HdHPK14</a></span></dt>
-<dd><p>Christopher Ramsay Holdgraf, Wendy de Heer, Brian N. Pasley, and Robert T. Knight. Evidence for Predictive Coding in Human Auditory Cortex. In <em>International Conference on Cognitive Neuroscience</em>. Brisbane, Australia, Australia, 2014. Frontiers in Neuroscience.</p>
-</dd>
-</dl>
-</p>
-</div>
-<div class="section" id="executing-code-in-your-markdown-files">
-<h3>Executing code in your markdown files<a class="headerlink" href="#executing-code-in-your-markdown-files" title="Permalink to this headline">¶</a></h3>
-<p>If you’d like to include computational content inside these markdown files,
-you can use MyST Markdown to define cells that will be executed when your
-book is built. Jupyter Book uses <em>jupytext</em> to do this.</p>
-<p>First, add Jupytext metadata to the file. For example, to add Jupytext metadata
-to this markdown page, run this command:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">jupyter</span><span class="o">-</span><span class="n">book</span> <span class="n">myst</span> <span class="n">init</span> <span class="n">markdown</span><span class="o">.</span><span class="n">md</span>
-</pre></div>
-</div>
-<p>Once a markdown file has Jupytext metadata in it, you can add the following
-directive to run the code at build time:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{code-cell}
-print(&quot;Here is some code to execute&quot;)
-```
-</pre></div>
-</div>
-<p>When your book is built, the contents of any <code class="docutils literal notranslate"><span class="pre">{code-cell}</span></code> blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.</p>
-<p>For more information about executing computational content with Jupyter Book,
-see <a class="reference external" href="https://myst-nb.readthedocs.io/">The MyST-NB documentation</a>.</p>
+<div class="section" id="honor-code-practicalities">
+<h2>Honor Code Practicalities<a class="headerlink" href="#honor-code-practicalities" title="Permalink to this headline">¶</a></h2>
+<p>The work you submit should be your own and created by you, unless explicitly listed as a group assignment. With the exception of the starred problems, I do encourage you to ask for help from your peers or myself when you have questions; however, copying is never allowed. The line between copying and helping is subtle. Below are a few guidelines:</p>
+<ul class="simple">
+<li><p>Do not share nor give your work with other students; instead, offer to discuss the big ideas of the task at hand.</p></li>
+<li><p>Do not look at someone else’s work (including online solutions); instead, ask if you could talk with them about your ideas and share where you are getting stuck.</p></li>
+<li><p>Acknowledge those you talk or work with at the top of every assignment. I will not dock points for getting acknowledged help from others. If you generate a solution or an argument with someone, in addition to acknowledging that person, recreate the solution or argument on your own in your own words.</p></li>
+</ul>
+<p>If you think you may have crossed the line between helping and copying, please talk to me. Do not let me discover that the line was crossed. If a violation of the Honor Code is suspected, the student will be informed and will be given the opportunity to meet with the instructor. As recommended by the Academic Honor Board and in keeping with Smith tradition, the student will be given time to self-report, and after such time, the suspected violation will be reported to the Academic Honor Board by the instructor.</p>
+<p>If you are unsure about how Smith’s Honor Code applies to our course, please consult with me or a class dean. We are happy to discuss the Honor Code with you.</p>
+<div class="section" id="creation-vs-curation">
+<h3>Creation vs. Curation<a class="headerlink" href="#creation-vs-curation" title="Permalink to this headline">¶</a></h3>
+<p>In my role as your instructor, I am <strong>curating</strong> resources for you that I feel are best for the teaching and learning of statistics. In this process of curation, I will give credit to those whose materials I have used and I will only use materials as allowable by copyright and fair use.</p>
+<p>In this course, you will be asked to <strong>create</strong> solutions to problem sets, lab reports, and a final project. In these acts of creation, you are demonstrating you most current understanding of the concepts in our course. This course will give you lots of chances to demonstrate what you know and lots of flexibility to repeatedly try again.</p>
+<p>I am aware that there is a tension between the curation that I am modeling and the creating that is being asked of you. My goal is to provide the best resources to you, which requires reading and sorting through many sources (curation). Your goal is to learn as much statistics as deeply as possible, which requires a lot of practice, trying out statistical ideas, reflecting on your attempts, and trying again (creation).</p>
 </div>
 </div>
 </div>
@@ -422,7 +317,21 @@ see <a class="reference external" href="https://myst-nb.readthedocs.io/">The MyS
               
             
                 <!-- Previous / next buttons -->
-<div class='prev-next-area'>
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="resources.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Resources Supporting CSC 294</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="grading.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Assessment</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
             
         </div>
