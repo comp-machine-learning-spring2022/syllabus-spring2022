@@ -4,5 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
+- file: logistics
+- file: assignments
+#- file: resources
+#- file: honorcode
+#- file: grading
+#- file: covid
