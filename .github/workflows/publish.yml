@@ -32,11 +32,11 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build Lab-0/
+        jupyter-book build csc294-syllabus/
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: Lab-0/_build/html
+        publish_dir: csc294-syllabus/_build/html
