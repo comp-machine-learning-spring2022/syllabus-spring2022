@@ -17,7 +17,7 @@ The work in this course can be broadly broken down into four types that build on
 
 ### Engagement Journal
 
-As part of this course, you are being asked to keep an engagement journal on Google Drive. This engagement journal aims to be a tether point to bring together the ideas that we encounter in our readings and in our labs. Check out this [google doc]() to start your engagement journal
+As part of this course, you are being asked to keep an engagement journal on Google Drive. This engagement journal aims to be a tether point to bring together the ideas that we encounter in our readings and in our labs. Check out this [google doc](https://docs.google.com/document/d/1jgDIs-EznLVTABCzF3IpdSN91e4km6lAdsyCIZe6oIk/edit?usp=sharing) to start your engagement journal
 
 You should use these journals in a way that makes sense to you. For some, that means doing one entry at the end of the week. For others, that means adding a little after each reading and activity. For some, this means deleting the questions that you don’t answer. For others, this might mean answering every question. Remember that the ultimate goal of the engagement journal is to help you engage with the course. You may have to experiment with how you do this, so that you get the maximal benefit from this tool.  
 

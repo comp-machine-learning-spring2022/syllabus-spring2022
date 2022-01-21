@@ -27,8 +27,8 @@ If you are unsure about how Smith's Honor Code applies to our course, please con
 
 ### Creation vs. Curation
 
-In my role as your instructor, I am **curating** resources for you that I feel are best for the teaching and learning of statistics. In this process of curation, I will give credit to those whose materials I have used and I will only use materials as allowable by copyright and fair use. 
+In my role as your instructor, I am **curating** resources for you that I feel are best for the teaching and learning of machine learning. In this process of curation, I will give credit to those whose materials I have used and I will only use materials as allowable by copyright and fair use. 
 
-In this course, you will be asked to **create** solutions to problem sets, lab reports, and a final project. In these acts of creation, you are demonstrating you most current understanding of the concepts in our course. This course will give you lots of chances to demonstrate what you know and lots of flexibility to repeatedly try again. 
+In this course, you will be asked to **create** solutions for homework assignments and projects. In these acts of creation, you are demonstrating you most current understanding of the concepts in our course. This course will give you lots of chances to demonstrate what you know and lots of flexibility. 
 
-I am aware that there is a tension between the curation that I am modeling and the creating that is being asked of you. My goal is to provide the best resources to you, which requires reading and sorting through many sources (curation). Your goal is to learn as much statistics as deeply as possible, which requires a lot of practice, trying out statistical ideas, reflecting on your attempts, and trying again (creation). 
+I am aware that there is a tension between the curation that I am modeling and the creation that is being asked of you. My goal is to provide the best resources to you, which requires reading and sorting through many sources (curation). Your goal is to learn as much machine learning as deeply as possible, which requires a lot of practice, trying out machine learning ideas, reflecting on your attempts, and trying again (creation). 
