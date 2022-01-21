@@ -3,7 +3,7 @@
 To prepare students to tackle the course’s motivating questions - especially _What habits of mind do we need to develop to become machine learning practitioners?_ -  there are a variety of assignments in this course. Each week will be a mix of reading about machine learning topics, discussing and debating concepts, implementing algorithms and ideas in code, and constant reflection about our learning and professional development. All best by dates are posted on the Detailed Course Schedule. 
 
 :::{note}
-The [Detailed Course Schedule](https://docs.google.com/document/d/12zppEXeUKFf764wLZJabBfvyTF5gR-3AjwREnvRz_BQ/edit?usp=sharing) lists the due dates for the course. To view it, please log into your **Smith** account. 
+The [Detailed Course Schedule](https://docs.google.com/document/d/12zppEXeUKFf764wLZJabBfvyTF5gR-3AjwREnvRz_BQ/edit?usp=sharing) lists the best by dates for the course. To view it, please log into your **Smith** account. 
 :::
 
 ## Assignments
@@ -36,40 +36,50 @@ There are 4 projects for the semester. The primary goal of these projects is for
 
 ## Submitting work
 
-There are only two firm due dates for this course: the last day of classes and the last day of finals. Instead of firm deadlines throughout the semester, we will be using "best by dates." These best by dates are my recommendation of when you should aim to complete work to continue making progress in the course. If you work best with firm deadlines, then you can treat these 
+There are only two firm due dates for this course: the last day of classes and the last day of finals. Instead of firm deadlines throughout the semester, we will be using "best by dates." These best by dates are my recommendation of when you should aim to complete work to continue making progress in the course. If you work best with firm deadlines, then you can treat these best by dates as due dates. 
 
-I will be marking work in batches as enough work is submitted for each assignment. I will communicate on slack when work has been returned. 
+I will be marking assignments in batches as enough work is submitted for each assignment. I will communicate on slack when work has been returned. 
 
 ### Mid-semester Conferences
 
 The week after spring break, we will have mid-semester conferences. I will be meeting with each student for 10 minutes to discuss their progress in the course. Please sign-up for these meetings using the link on the detailed course schedule. 
 
+### Two firm deadlines
+
+The only two firm deadlines of the course are the last day of classes and the last day of finals:    
+ - **Due on the Last day of classes** -- All labs, all homework assignments, and the first two projects
+ - **Due on the last day of finals** -- The last two projects and your engagement journal
+
+There are no extensions to these two deadlines without intervention from a class dean.  
+
 ## Weekly flow for the course 
 
-Each week, you will have group problem sets, a lab and either a starred problem or a knowledge check due each week. The course will operate as follows:
+Each week, you will have readings to prepare for class as well as two labs. Spread over the semester are six homework assignments and two projects. The course will operate as follows:
 
-| Day    | Course Preparation and/or Activity | Assignment due |
+| Day    | Course Preparation and/or Activity | Best by Date |
 | ----------- | ----------- | ----------- |
-| Monday     | Group Problem Set in class | Starred problem |
-| Wednesday     | Group Problem Set in class | (none) |
-| Thursday     | Lab in Class| Pre-lab; Group Problem sets from Monday, Wednesday, and previous Friday |
-| Friday     | Group Problem Set in class | Lab from Thursday |
+| Monday     | Lab in class | Lab from previous Wednesday |
+| Wednesday     | Lab in class | Lab from Monday |
+| Friday     | (no class) | Homework or Project |
+
+:::{note}
+The [Detailed Course Schedule](https://docs.google.com/document/d/12zppEXeUKFf764wLZJabBfvyTF5gR-3AjwREnvRz_BQ/edit?usp=sharing) lists the best by dates for the course. To view it, please log into your **Smith** account. 
+:::
 
 ### Workload
 
-According to federal standards, each four-credit course should equate to at least 180 hours of work over the semester. If you are taking 16 credits, that equates to 720 hours of work over the 15 weeks of the semester, from the first day of classes until the end of the final exam period. In the case of this course, you will spend nearly 12 hours each week on my class alone (including our six hours of class meetings per week).[^1]
+According to federal standards, each four-credit course should equate to at least 180 hours of work over the semester. If you are taking 16 credits, that equates to 720 hours of work over the 15 weeks of the semester, from the first day of classes until the end of the final exam period. In the case of this course, you will spend nearly 12 hours each week on my class alone (including our three hours of class meetings per week).[^1]
 
 [^1]: Each of our 75 minute meetings is "counted" as 90 minutes. Since we meet 2 times per week, our "in-class contact time" is counted as 3 hours. 
 
 In considering the work for this course, I believe that the approximate 9 hours per week _outside_ of class will breakdown something along these lines:
 
-- 3 hours of class prep - One hour per lecture for reading the book and prep activities
-- 1 hour per week of lab prep and/or wrap up
-- 1 hour per week on the project
-- 1 hour per week on the starred problem 
-- 3 hours of "flex time" used to supplement any of the above areas and/or go to student hours
+- 2 hours of class prep - 90 minutes per class meeting reading the book and prep activities
+- 2 hours per week of lab wrap up
+- 3 hours per week on homework and/or projects
+- 2 hours of "flex time" used to supplement any of the above areas and/or go to student hours
 
-Notice that there are 3 hours of flex time. This is to accommodate weeks were you might want to spend more time on an assignment. For example, you might spend extra time studying in the weeks leading up to a knowledge check. 
+Notice that there are 2 hours of flex time. This is to accommodate weeks were you might want to spend more time on an assignment. For example, you might spend extra time working on a project in the weeks leading up to its best by date. 
 
 If you find that the time you are spending on this class is a lot more than 9 hours per week _outside_ of class or a lot less, let's check in. 
 
@@ -78,7 +88,7 @@ If you find that the time you are spending on this class is a lot more than 9 ho
 The current academic system is designed to keep you working more than 40 hours per week just on your courses. This means that the hours not working on class work are precious and should be treated as such. This does not mean that every hour of every day should be filled with things deemed important by others, but more as a call to be intentional with your time. A few questions you might want to ask yourself include: 
 
 - Are you spending time on yourself and your wellbeing? What are you doing to restore yourself? How much time and space do these activities need to be effective? 
-- Are you giving to your courses the time that you want to be? Are you giving them the time during part of the day when your brain is ready to engage new ideas?
+- Are you giving the time to your courses that you want to be? Are you giving them the time during part of the day when your brain is ready to engage new ideas?
 - Are you working doing your best thinking hours? If so, do you have any flexibility to adjust your daily schedule to be more present with your studies? 
 - Are you devoting time to being with your friends and/or your family? Are you present during those times? 
 - Are you losing hours to things or activities that are not high on your priority list? Alternatively, are you losing hours or days that you cannot recall what you did that day or why it so consumed you? 
