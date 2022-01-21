@@ -4,6 +4,10 @@
 
 The course meets twice a week on Mondays and Wednesdays in Ford 342 from 10:50am to 12:05pm. In supporting our course community, students should make every effort to be at our course meetings on time.
 
+:::{note}
+For accessibility reasons, we kindly ask that you refrain from wearing any scented products in class. 
+:::
+
 
 ### Attending Lecture and Lab
 
