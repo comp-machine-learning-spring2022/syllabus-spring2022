@@ -12,7 +12,7 @@ Your are now a machine learning explorer!
 
 An introduction to machine learning from a programming perspective. Students will develop an understanding of the basic machine learning concepts (including underfitting/overfitting, measures of model complexity, training/test set splitting, and cross-validation), but with an explicit focus on machine learning systems design (including evaluating algorithmic complexity and development of programming architecture) and on machine learning at scale. Principles of supervised and unsupervised learning will be demonstrated via an array of machine learning methods including decision trees, k-nearest neighbors, ensemble methods, and neural networks/deep learning as well as dimension reduction, clustering and recommender systems. Students will implement classic machine learning techniques, including gradient descent. 
 
-#### Motivating Questions
+### Motivating Questions
 
 There are a few questions motivating our course work: 
 - What is Machine Learning?   
@@ -20,7 +20,7 @@ There are a few questions motivating our course work:
 - What habits of mind do we need to develop to become machine learning practitioners?   
 
 
-#### Course Learning Objectives
+### Course Learning Objectives
 
 By the end of the course, students will be able to...
 1. Detail differences between supervised and unsupervised learning tasks and methods, as well as discuss the issues when dealing with large scale data    
