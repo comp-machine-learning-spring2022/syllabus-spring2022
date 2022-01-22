@@ -33,8 +33,5 @@ Traditional letter grades will be assigned using the below listed minimum medal 
 | C     | 700 - 799 pts  |
 | D     | 600 - 699 pts  |
 
-:::{note}
-Higher levels can count for lower level totals, but not vice versa. For example, a silver level can count towards your bronze total but a silver level cannot count towards your gold total. 
-:::
 
 At the instructor’s discretion, these grade cutoffs may be lowered at the end of the semester, but they will never be raised. Cut-offs not stated here for the pluses and minuses will be determined at the end of the semester.

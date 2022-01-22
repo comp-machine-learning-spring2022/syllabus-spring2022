@@ -28,6 +28,10 @@ Both of our recommended texts are available at the library as E-Books. They are:
 Please note that for anything denoted as an E-Book at the library, there are limits placed on how many people can view the source. Instead, you can download sections (or whole books) for a period of time directly from the library. 
 :::
 
+## Pedagogical Partner
+
+Kathleen is my pedagogical partner this semester. She took CSC294 last spring and will be helping to redesign some of the labs and the final project. If you would like to provide feedback regarding course content or structure to a fellow student (and anonymously if you wish), please reach out to Kathleen (khablutzel@smith.edu or on slack).
+
 ## Student Hours
 
 Student hours are **drop-in hours.** These hours are for _you_ to meet with me about anything! They are times on my calendar with _nothing else_ on them. 
