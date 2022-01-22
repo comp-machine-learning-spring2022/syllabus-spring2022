@@ -91,3 +91,8 @@ You are welcome and encouraged to make individual appointments with me. To make 
 :::{note}
 To book an appointment with me, go to my [appointment calendar](https://bit.ly/Kinnaird-Appts)
 :::
+
+
+## Pedagogical Partner
+
+Kathleen is my pedagogical partner this semester. She took CSC294 last spring and will be helping to redesign some of the labs and the final project. If you would like to provide feedback regarding course content or structure to a fellow student (and anonymously if you wish), please reach out to Kathleen (khablutzel@smith.edu or on slack).
