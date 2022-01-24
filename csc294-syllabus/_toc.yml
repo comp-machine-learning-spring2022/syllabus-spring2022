@@ -9,4 +9,4 @@ chapters:
 - file: resources
 - file: honorcode
 - file: grading
-- file: covid
+#- file: covid
