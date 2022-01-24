@@ -9,7 +9,7 @@ For accessibility reasons, we kindly ask that you refrain from wearing any scent
 :::
 
 
-### Attending Lecture and Lab
+### Attending Lecture
 
 We are still in the midst of a global pandemic. In keeping with the 
 [Guidelines](https://www.smith.edu/covid19/guidelines-policies) laid out in 
@@ -30,6 +30,8 @@ Failure to respect this policy will result in an email to both the class dean an
 ### Pivoting Class Meetings
 
 If I am unwell and/or experiencing any symptoms of COVID, class will be held on gather. If this happens, I will send a slack message on the #general channel using the @everyone mention. Using @everyone should send an email to your inbox. 
+
+If the college remains remote for the whole semester, the course should be able to remain largely remain unchanged. The structure of this course is similar to one that I used in Spring 2021 for _Computational Machine Learning._ That course was fully online, and students had positive comments on this format. 
 
 ## Communication
 
@@ -92,7 +94,3 @@ You are welcome and encouraged to make individual appointments with me. To make 
 To book an appointment with me, go to my [appointment calendar](https://bit.ly/Kinnaird-Appts)
 :::
 
-
-## Pedagogical Partner
-
-Kathleen is my pedagogical partner this semester. She took CSC294 last spring and will be helping to redesign some of the labs and the final project. If you would like to provide feedback regarding course content or structure to a fellow student (and anonymously if you wish), please reach out to Kathleen (khablutzel@smith.edu or on slack).

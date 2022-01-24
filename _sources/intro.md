@@ -5,7 +5,7 @@ the computational aspects of machine learning! You are now, just by being here, 
 help us frame out exactly what that means and also what _machine learning_ is. 
 
 :::{note}
-Your are now a machine learning explorer! 
+Your are now a machine learning practitioner and explorer! 
 :::
 
 ## Official Course Description
@@ -31,7 +31,7 @@ By the end of the course, students will be able to...
 
 ## Course Philosophy
 
-This course is designed to be a first course in Machine Learning, but one that also prepares students to develop and implement their own machine learning pipelines using standard industry practices. Completing such a task is not as prescriptive nor as straightforward as completing a standard college course. There are turns and twists, failures and incremental progress, moments of confusion and bursts of clarity. This course seeks to begin your training in machine learning. Success in this course will be measured iteratively, placing emphasis on student’s ownership of the learning process and a student’s consistency of effort. 
+This course is designed to be a first course in Machine Learning, but one that also prepares students to develop and implement their own machine learning pipelines using standard industry practices. Completing such a task is not as prescriptive nor as straightforward as completing a standard college course. There are turns and twists, failures and incremental progress, moments of confusion and bursts of clarity. Success in this course will be measured iteratively, placing emphasis on student’s ownership of the learning process and a student’s consistency of effort. 
 
 
 ### Stretch Zone
@@ -81,7 +81,7 @@ help us build our course community.
 Please read the syllabus this week and complete these tasks to help shape our community. If you have questions about the syllabus, please ask them!
 :::
 
-This web version of the syllabus has a menu and search bar on the left, but the syllabus is also available as one [pdf document](https://github.com/comp-machine-learning-spring2022/syllabus-spring2022/raw/main/csc294-syllabus/_build/pdf/book.pdf).
+This web version of the syllabus has a menu and search bar on the left, but the syllabus is also available as one [pdf document](https://github.com/comp-machine-learning-spring2022/syllabus-spring2022/raw/main/csc294-syllabus/_build/pdf/csc294-spring2022.pdf).
 
 ## Course Acknowledgements 
 
