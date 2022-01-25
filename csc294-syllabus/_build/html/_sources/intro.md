@@ -81,7 +81,7 @@ help us build our course community.
 Please read the syllabus this week and complete these tasks to help shape our community. If you have questions about the syllabus, please ask them!
 :::
 
-This web version of the syllabus has a menu and search bar on the left, but the syllabus is also available as one [pdf document](https://github.com/comp-machine-learning-spring2022/syllabus-spring2022/raw/main/csc294-syllabus/_build/pdf/book.pdf).
+This web version of the syllabus has a menu and search bar on the left, but the syllabus is also available as one [pdf document](https://github.com/comp-machine-learning-spring2022/syllabus-spring2022/raw/main/csc294-syllabus/_build/pdf/csc294-spring2022.pdf).
 
 ## Course Acknowledgements 
 
